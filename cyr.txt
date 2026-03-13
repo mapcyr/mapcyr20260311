@@ -9,3 +9,5 @@ MAPCYR2026
 mmmm-ffffff
 mmmmmmmmmmmmm  to  ffffffffffffffff
 fffff888  to    mmmmmm999
+0000000
+11111111111
